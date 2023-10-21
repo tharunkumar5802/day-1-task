@@ -1,0 +1,2 @@
+1.Javascript is a dynamic,prototype based,object oriented language that supports multiple paradigms such as functional,imperative,and declarative programming
+2.one of the most fundamental and versatile  data types in javascript is the object
